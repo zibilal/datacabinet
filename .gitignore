@@ -1,0 +1,15 @@
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+vendor
+dbdata
+datacabinet
+apptest/apptest
+Gopkg.lock
+**/app.yml
+**/App.yaml
+**/*.lock
+App.yaml
+App.yml
+db
+vault_example.json
